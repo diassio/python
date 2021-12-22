@@ -13,4 +13,3 @@ for el in my_list:
         elif inp < my_list[len(my_list) - 1]:
             my_list.append(inp)
 print(my_list)
-
