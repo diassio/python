@@ -1,0 +1,4 @@
+Andrey, 30000
+Oleg, 2000
+Shrek, 500000
+Dmitry, 100
